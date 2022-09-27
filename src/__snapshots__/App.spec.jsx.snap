@@ -1,0 +1,14 @@
+// Vitest Snapshot v1
+
+exports[`renders <App> properly 1`] = `
+<div
+  className="App"
+>
+  <button
+    onClick={[Function]}
+  >
+    count is 
+    0
+  </button>
+</div>
+`;
